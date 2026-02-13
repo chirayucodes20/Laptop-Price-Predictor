@@ -76,4 +76,18 @@ The model is trained on a dataset of **1,300+ laptops** and uses the **Random Fo
 
 | Category | Technologies |
 | :--- | :--- |
-| **
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frontend** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **Deployment** | ![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+
+---
+
+## 🚀 Installation
+
+Follow these steps to run the project locally on your machine.
+
+1. **Clone the Repository**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/Laptop-Price-Predictor.git](https://github.com/YOUR_USERNAME/Laptop-Price-Predictor.git)
+   cd Laptop-Price-Predictor
