@@ -91,3 +91,29 @@ Follow these steps to run the project locally on your machine.
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Laptop-Price-Predictor.git](https://github.com/YOUR_USERNAME/Laptop-Price-Predictor.git)
    cd Laptop-Price-Predictor
+Create a Virtual Environment (Optional but Recommended)
+
+Bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install Dependencies
+
+Bash
+pip install -r requirements.txt
+Run the App
+
+Bash
+streamlit run app.py
+📂 Project Structure
+Bash
+Laptop-Price-Predictor/
+├── .git/
+├── __pycache__/
+├── .gitignore
+├── app.py               # Main Streamlit Application
+├── laptop_data.csv      # Raw Dataset
+├── model.pkl            # Trained Model File
+├── df.pkl               # Processed DataFrame
+├── Laptop_Price_Prediction.ipynb  # Jupyter Notebook (Analysis & Training)
+├── requirements.txt     # List of dependencies
+└── README.md            # Project Documentation
